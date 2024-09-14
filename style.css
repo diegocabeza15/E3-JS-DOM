@@ -1,0 +1,49 @@
+#search-form {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+  }
+  
+#pizza-id {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+  
+#search-btn {
+    background-color: #000000;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#data-container{
+    background-color: rgb(211, 159, 91);
+    padding: 20px;
+    margin: 300px;
+    border-radius: 10px;
+    border: 2px solid;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+#data-container img{
+    border: 2px solid;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+
+#data-container h2{
+    font-size: 2rem;
+}
+
+#data-container p{
+    font-size: 1.2rem;
+}
+
+
+
